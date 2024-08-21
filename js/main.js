@@ -1,4 +1,4 @@
-var urlRPC = "https://dementedpotbellybison-rpc.eu-north-2.gateway.fm";
+var urlRPC = "https://devnet-rpc.araucochain.xyz";
 var currency = "RAUCO";
 var networkName = "Arauco Chain Devnet"
 const chainId = 538245588;
