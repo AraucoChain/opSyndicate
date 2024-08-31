@@ -1,7 +1,7 @@
-var urlRPC = "https://devnet-rpc.araucochain.xyz";
+var urlRPC = "https://groupjauntilytarsier-rpc.eu-north-2.gateway.fm";
 var currency = "RAUCO";
 var networkName = "Arauco Chain Devnet"
-const chainId = 538245588;
+const chainId = 752317445;
 const milisecondsToWait = 15000;
 
 var web3 = new Web3(new Web3.providers.HttpProvider(urlRPC));
