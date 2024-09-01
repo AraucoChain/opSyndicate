@@ -1,4 +1,4 @@
-var urlRPC = "https://groupjauntilytarsier-rpc.eu-north-2.gateway.fm";
+var urlRPC = "https://devnet.araucochain.xyz";
 var currency = "RAUCO";
 var networkName = "Arauco Chain Devnet"
 const chainId = 752317445;
